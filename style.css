@@ -4,7 +4,7 @@
     box-sizing: border-box;
     transition: 0.3s ease;
     font-family: Rubik, sans-serif;
-    height: 200vh;
+    
 
 }
 @font-face {
@@ -13,7 +13,7 @@
 }
 
 .overall{
-    height: 200vh;
+    height: auto;
     width: 100%;
     /* text-align: center; */
     /* background-color: black !important; */
